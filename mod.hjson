@@ -1,0 +1,11 @@
+name: "map-collection"
+displayName: "Map Collection"
+author: "Wine"
+description: 
+"Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.
+
+[stat[]]Thank you to all the map creators who let me include their maps here!"
+version: "b0.1"
+minGameVersion: "157"
+dependencies: [ ]
+hidden: true
