@@ -2,10 +2,16 @@ name: "map-collection"
 displayName: "Map Collection"
 author: "Wine"
 description: 
-"Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.
+"Simple json mod containing many high quality mindustry maps. Currently in beta with [stat[]]43 maps[[]]. All maps are vanilla compatible.
 
-[stat[]]Thanks to all the map creators who let me include their maps here!"
-version: "b0.1"
+[stat[]]Thanks to all the map creators who let me include their maps here!
+
+[grey[]]b0.2 Changelog:
+ Added:
+ Cryoriver by Comi
+ Summit by uio
+ Tidal Cove by Wine"
+version: "b0.2"
 minGameVersion: "157"
 dependencies: [ ]
 hidden: true
