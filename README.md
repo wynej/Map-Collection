@@ -1,11 +1,15 @@
-### Map Credits:
+### Map Credits: 48 total maps
 'Abandoned Complex' by Quad
 
 'Abandoned Export Facility' by uio
 
 'Arid Oasis' by uio
 
+'Arkyic Grove' by Comi
+
 'Black Sand Fortress' by Quad
+
+'Blast' by Comi
 
 'Coastal Frontier' by uio
 
@@ -20,6 +24,8 @@
 'Cryoriver' by Comi
 
 'Dagger Duels' by uio
+
+'Desolate Plateau' by uio
 
 'Dormant Seaside' by Comi
 
@@ -46,6 +52,8 @@
 'Infiltration' by Comi
 
 'Invasion' by Quad
+
+'Moss Ironworks' by ncLr
 
 'Nova Coma' by uio
 
@@ -84,3 +92,5 @@
 'Transit Inlet' by uio
 
 'Valley' by uio
+
+'Vines' by ncLr
