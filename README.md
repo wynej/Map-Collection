@@ -1,4 +1,4 @@
-### Map Credits: 48 total maps
+### Map Credits: 50 total maps
 'Abandoned Complex' by Quad
 
 'Abandoned Export Facility' by uio
@@ -87,9 +87,13 @@
 
 'Tainted Lake' by Quad
 
+'Tar Maar' by uio
+
 'Tidal Cove' by Wine
 
 'Transit Inlet' by uio
+
+'Twin Oxbow' by uio
 
 'Valley' by uio
 
